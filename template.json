@@ -1,0 +1,26 @@
+{
+  "patients": [
+    {
+      "firstName": "James",
+      "lastName": "Randall",
+      "dateOfBirth": "11/13/1970",
+      "street": "12511 SW 68th Ave",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97223",
+      "mobileNumber": "5035551212",
+      "email": "james@randall.com"
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Randall",
+      "dateOfBirth": "11/13/1980",
+      "street": "12511 SW 68th Ave",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97223",
+      "mobileNumber": "5035552323",
+      "email": "alex@randall.com"
+    }
+  ]
+}

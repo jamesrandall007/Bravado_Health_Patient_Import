@@ -1,0 +1,24 @@
+{
+    "patients": [{
+            "firstName": "First",
+            "lastName": "Last",
+            "dateOfBirth": "4/16/2007",
+            "street": "20435 SW Portland Court",
+            "city": "Portland",
+            "state": "OR",
+            "zip": "97210",
+            "email": "email.gmail@gmail.com",
+            "mobileNumber": "5035551212"
+        }, {
+            "firstName": "Example",
+            "lastName": "Numbertwo",
+            "dateOfBirth": "7/13/1971",
+            "street": "20530 SW Wynne St",
+            "city": "Aloha",
+            "state": "OR",
+            "zip": "97078",
+            "email": "courtland@hotmail.com",
+            "mobileNumber": "5035552323"
+        }
+    ]
+}
